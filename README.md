@@ -1,4 +1,5 @@
 #Healthcare Analytics
+# Dashboard Link - https://public.tableau.com/views/CapstoneProject3_17174944739080/Healthcare?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 # Problem Statement
 •The main aim to analyse healthcare report of  patient summaries by Blood Pressure category and Diabetic status and to  show various health factors by age groupsand  to display Body Mass Index (BMI) distribution by age groups.
